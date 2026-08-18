@@ -59,3 +59,7 @@ This is a **demo-quality coherent DAW**, not full Ableton Live 12 parity.
 ## License
 
 UNLICENSED — Astra Matrix, Inc.
+
+---
+
+by ASTRA MATRIX
